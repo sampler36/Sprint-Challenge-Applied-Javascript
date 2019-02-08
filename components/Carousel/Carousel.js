@@ -4,6 +4,9 @@ class Carousel {
           this.carouselElement = carouselElement;
         }
     }
+    //left button
+    //right button
+    
 
 let carousels = document.querySelectorAll('.carousel');
  carousels.forEach(carousel => new CaraLink(carousel));
